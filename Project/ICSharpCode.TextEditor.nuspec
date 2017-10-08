@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TetraSQL</id>
+    <version>1.0.0.0</version>
+    <title>Tetra SQL Editor</title>
+    <authors>Hikmet Okumuş</authors>
+    <owners>Hikmet Okumuş</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://image.evidea.com/favicon1.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="bin\ICSharpCode.TextEditor.dll" target="lib"></file>
+  </files>
+</package>

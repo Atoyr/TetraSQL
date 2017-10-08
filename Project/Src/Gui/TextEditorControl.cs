@@ -84,6 +84,9 @@ namespace ICSharpCode.TextEditor
 			Document.UpdateCommited += new EventHandler(CommitUpdateRequested);
 			OptionsChanged();
             SetHighlighting("SQL");
+
+            //TetraSQLFormatter.SqlFormattingManager manager = new TetraSQLFormatter.SqlFormattingManager();
+            //this.Text = manager.Format(this.Text);
 		}
 		
 		protected virtual void InitializeTextAreaControl(TextAreaControl newControl)
@@ -392,6 +395,6 @@ namespace ICSharpCode.TextEditor
 			// If more lines exist, print another page.
 			ev.HasMorePages = curLineNr < Document.TotalNumberOfLines;
 		}
-		#endregion
-	}
+        #endregion
+    }
 }

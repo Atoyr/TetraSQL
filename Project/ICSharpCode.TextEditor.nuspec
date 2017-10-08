@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>TetraSQL</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>Tetra SQL Editor</title>
     <authors>Hikmet Okumuş</authors>
     <owners>Hikmet Okumuş</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <licenseUrl>https://github.com/hokumus/TetraSQL</licenseUrl>
+    <projectUrl>https://github.com/hokumus/TetraSQL</projectUrl>
     <iconUrl>http://image.evidea.com/favicon1.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
